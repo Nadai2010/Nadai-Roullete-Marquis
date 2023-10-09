@@ -31,7 +31,7 @@ After cloning the project, execute the following:
 1. **Terminal 1 - Katana**:
 
 ```console
-cd dojo-starter && make katana
+cd Nadai-Roullete-Marquis/dojo-starter && make katana
 ```
 
 2. **Terminal 2 - Contracts**:
@@ -43,13 +43,13 @@ cd dojo-starter && make sozo
 3. **Terminal 3 - Client**:
 
 ```console
-cd client && yarn && yarn dev
+cd front-end && yarn && yarn dev
 ```
 
 or if using bun
 
 ```console
-cd client && bun install && bun dev
+cd front-end && bun install && bun dev
 ```
 
 4. **Terminal 2 - Torii**:
