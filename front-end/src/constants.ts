@@ -1,0 +1,2 @@
+export const TOKEN_ADDRESS =
+  "0x07686ccbe3e33aefec722bd7211e42e47269f16a2a918318bdb27a99c926899b";
