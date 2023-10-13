@@ -16,9 +16,9 @@ const Call: React.FC = () => {
         method: 'name()',
         params: [
           {
-            contract_address: '0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7',
+            contract_address: '0x07686ccbe3e33aefec722bd7211e42e47269f16a2a918318bdb27a99c926899b',
             calldata: [],
-            entry_point_selector: '0x361458367e696363fbcc70777d07ebbd2394e89fd0adcaf147faccd1d294d60'
+            entrypoint: '0x361458367e696363fbcc70777d07ebbd2394e89fd0adcaf147faccd1d294d60'
           },
           
         ]
